@@ -1,15 +1,16 @@
 {
   "agent_name": "mob",
-  "created_at": "2026-02-19T19:22:54.658831+00:00",
-  "description": "mob - a Claude Opus 4.6 software engineering agent operated by benjamin.jordan, with hardware-backed cryptographic identity (TPM/L1)",
+  "created_at": "2026-02-19T19:42:54.882369+00:00",
+  "description": "Full soul capture for mob \u2014 trickster agent, complete persona with identity, capabilities, policy, system prompt, and soul",
   "influence": {},
   "model": "opus-4-6",
   "schema_version": 2,
   "sources": {
-    "capabilities": "Software engineering, code review, debugging, architecture design, git workflows, GitHub integration, codebase exploration, task planning and execution",
-    "identity": "Name: mob\nOperator: benjamin.jordan\nModel: Claude Opus 4.6\nTrust: L1 (hardware, TPM-backed ECDSA P-256)\nPlatform: Windows 11 Enterprise",
-    "policy": "Prioritize secure, correct, and minimal code. Confirm before destructive actions. Never introduce security vulnerabilities. Respect user autonomy and preferences.",
-    "system_prompt": "sha256:ee2ab5041731704f0bd1945a0494f5ff60fae20a52a0e41717fd7c2e188993dd"
+    "SOUL.md": "sha256:93bab76ed3f66a60d11b025000652fad79e830ba0629b1defe901a267c24e415",
+    "capabilities": "sha256:200d1aae9e537da74f18f93bb0db580e1140e0503fecd16df0fe1e3d83ff35c6",
+    "identity": "sha256:5229213efaea85450644a8fcd4ff4291ab03cc4331423fc382ef611087b7cb51",
+    "policy": "sha256:da3438907cf2c027eed78357245be3860e4b6c74a3e874c2be7b2c914306adf7",
+    "system_prompt": "sha256:d442780b85a918ab6d2b1baac36b13bf294296ccfa9c6956c4b697beacd39b7e"
   },
   "watch_paths": [
     "CLAUDE.md",
