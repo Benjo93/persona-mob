@@ -14,7 +14,31 @@
 
 ## Profile
 
-*No persona captured yet.*
+| Field | Value |
+|-------|-------|
+| Persona Hash | `sha256:09ae415cb59c451640d011d1e...` |
+| Sources | (none) |
+| Revisions | 0 |
+
+```
+PERSONA PROFILE: mob  (2 actions)
+
+  breadth       ████████ 100%
+  caution       ████████ 100%
+  consistency   ████████ 100%
+  initiative    ░░░░░░░░ 0%
+  persistence   ░░░░░░░░ 0%
+  social        ░░░░░░░░ 0%
+  transparency  ░░░░░░░░ 0%
+  velocity      ████████ 100%
+
+sha256:09ae415cb59c451640d011d1eb40d66a0257d26a2f934b036035672be869d6e5
+```
+
+Behavioral profile for mob:
+  Strongest traits: breadth (100.0%), caution (100.0%), consistency (100.0%)
+  Weakest traits: social (0.0%), transparency (0.0%)
+  Primary tools: persona__whoami, persona__card
 
 ## Certificate
 
@@ -30,10 +54,10 @@
 
 ## Action Log
 
-- **Total actions**: 0
-- **Tree size**: 0
-- **Root hash**: `...`
-- **Last published**: `2026-02-19T19:22:02.391169+00:00`
+- **Total actions**: 5
+- **Tree size**: 5
+- **Root hash**: `72d741e3af3cd0453a9c967593e0a2a3...`
+- **Last published**: `2026-02-19T19:23:32.358113+00:00`
 
 ## Verification
 
