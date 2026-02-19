@@ -1,0 +1,54 @@
+{
+  "agent_name": "mob",
+  "generated_at": "2026-02-19T19:40:11.389522+00:00",
+  "persona_hash": "sha256:09ae415cb59c451640d011d1eb40d66a0257d26a2f934b036035672be869d6e5",
+  "observation_window": {
+    "start": "2026-02-19T19:22:18.453104+00:00",
+    "end": "2026-02-19T19:26:56.613886+00:00",
+    "hours": 0.1
+  },
+  "sample_size": 4,
+  "dimensions": {
+    "initiative": 0.0,
+    "breadth": 1.0,
+    "persistence": 0.0,
+    "caution": 1.0,
+    "consistency": 1.0,
+    "social": 0.25,
+    "transparency": 0.25,
+    "velocity": 0.518
+  },
+  "patterns": {
+    "tool_preferences": [
+      {
+        "tool": "persona__whoami",
+        "count": 1
+      },
+      {
+        "tool": "persona__card",
+        "count": 1
+      },
+      {
+        "tool": "persona__publish",
+        "count": 1
+      },
+      {
+        "tool": "persona__audit",
+        "count": 1
+      }
+    ],
+    "session_patterns": {
+      "session_count": 1,
+      "avg_session_length": 4.0
+    },
+    "error_patterns": {
+      "error_count": 0,
+      "error_rate": 0.0
+    },
+    "activity_rhythm": {
+      "19": 4
+    }
+  },
+  "persona_transitions": [],
+  "summary": "Behavioral profile for mob:\n  Strongest traits: breadth (100.0%), caution (100.0%), consistency (100.0%)\n  Weakest traits: initiative (0.0%), persistence (0.0%)\n  Primary tools: persona__whoami, persona__card, persona__publish"
+}
