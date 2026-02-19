@@ -1,0 +1,17 @@
+{
+  "type": "agent",
+  "name": "mob",
+  "model": "opus-4-6",
+  "capabilities": [
+    "chat"
+  ],
+  "system_prompt_hash": "",
+  "key_type": "ecdsa-p256-hw",
+  "public_key": "BDWJqy2AYQA8OB4+8xIAL6fKGkUNFWcYA6j6UdpReyy5PUNi4zhXNWHDlc5pnryScChDiLfJdr4Y+zFtqJrCVC4=",
+  "issued_at": "2026-02-19T19:19:47.929641+00:00",
+  "expires_at": "2027-02-19T19:19:47.929641+00:00",
+  "issuer": "persona:ca:local",
+  "trust_level": 1,
+  "key_protection": "tpm",
+  "signature": "2Dcb5NbjEkRkbNToTi264vfgKkSwYFx2vQnB3P7JprdRbG6ipFodOX5Mhbrnp91zLzznEPquPNkSbmOMoAstBw=="
+}
